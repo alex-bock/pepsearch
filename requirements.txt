@@ -1,0 +1,9 @@
+biopython
+bitarray
+fair-esm
+numpy
+pandas
+plotly
+scipy
+sklearn
+torch

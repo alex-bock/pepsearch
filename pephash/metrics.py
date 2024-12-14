@@ -5,7 +5,7 @@ from typing import Union
 import numpy as np
 import plotly.express as px
 from scipy.spatial import distance_matrix
-from scipy.spatial.distance import hamming, euclidean, cosine
+from scipy.spatial.distance import hamming, cosine
 from scipy.stats import spearmanr
 from torch import nn, Tensor
 
